@@ -1,10 +1,10 @@
 # optmalloc
-**Thread-Safe High Performance Allocator**
+**Thread-Safe High-Performance Allocator**
 
 This project was our second challenge assignment in CS 3650 Computer Systems at Northeastern University. I worked alongside a partner for this project.
 
 ## Goals
-Create a thread-safe high-performance memory allocator that could run the Collatz Conjecutre faster than the GNU malloc.
+Create a thread-safe high-performance memory allocator that could run the Collatz Conjecture faster than the GNU malloc.
 
 ## How to use optmalloc
 1. Clone this repository locally
